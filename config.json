@@ -1,6 +1,6 @@
 {
   "name": "MediaMTX Add-on",
-  "version": "v0.17.6",
+  "version": "latest",
   "slug": "mediamtx",
   "description": "Create RTSP server to broadcast streams, thanks to https://github.com/bluenviron/mediamtx",
   "arch": [
