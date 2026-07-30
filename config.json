@@ -17,12 +17,12 @@
   },
   "startup": "application",
   "options": {
-	  "RTSP_PROTOCOLS": "tcp",
+    "MTX_RTSPTRANSPORTS": "tcp",
 	  "RTSP_PATHS_ALL_RUNONDEMAND": "echo 'incoming'",
 	  "RTSP_PATHS_ALL_RUNONDEMANDRESTART": "yes"
   },
   "schema": {
-	  "RTSP_PROTOCOLS": "list(tcp)",
+	  "MTX_RTSPTRANSPORTS": "list(tcp)",
 	  "RTSP_PATHS_ALL_RUNONDEMAND": "list(echo 'incoming')",
 	  "RTSP_PATHS_ALL_RUNONDEMANDRESTART": "list(yes)"
   },
